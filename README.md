@@ -6,6 +6,8 @@
 ![Status](https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)
 
+[![Image 1](img1.png)](link1)
+
 > **A full end-to-end data analysis project on San Francisco International Airport (SFO) air cargo traffic from 1999 to 2025 — covering data cleaning, exploratory analysis, and stakeholder-ready reporting.**
 
 ---
